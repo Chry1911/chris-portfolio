@@ -19,9 +19,9 @@ const certifications = [
     },
     {
       id: 3,
-      title: 'Certified UI/UX Designer',
+      title: 'Certified Data Virtualization',
       image: 'images/data.png',
-      description: 'A certification for proficiency in designing user interfaces and user experiences.'
+      description: 'A certification that demonstrates proficiency in data virtualization and advanced concepts.'
     }
   ];
   

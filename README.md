@@ -46,8 +46,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/Chry1911/your-portfolio-repo.git
-    cd your-portfolio-repo
+    git clone https://github.com/Chry1911/chris-portfolio.git
+    cd chris-portfolio
     ```
 
 2. **Install dependencies**

@@ -27,15 +27,15 @@ const Languages = () => {
                 <span className='text-Snow text-xs font-bold'>Languages</span>
                 <div className="flex flex-row items-center justify-center space-x-6">
                     <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#1fdf64" type="circle" percent={italiano} size={65} />
+                        <Progress strokeColor="#1f77d4" type="circle" percent={italiano} size={65} />
                         <span className='text-xs font-bold text-Snow'>Italiano</span>
                     </div>
                     <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#1fdf64" type="circle" percent={english} size={65} />
+                        <Progress strokeColor="#1f77d4" type="circle" percent={english} size={65} />
                         <span className='text-xs font-bold text-Snow'>English</span>
                     </div>
                     <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#1fdf64" type="circle" percent={french} size={65} />
+                        <Progress strokeColor="#1f77d4" type="circle" percent={french} size={65} />
                         <span className='text-xs font-bold text-Snow'>French</span>
                     </div>
                 </div>
