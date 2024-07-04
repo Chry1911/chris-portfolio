@@ -1,6 +1,12 @@
 const certifications = [
     {
       id: 0,
+      title: 'Certified GCP',
+      image: 'images/GCP certificate.jpg',
+      description: 'A certification that demonstrates proficiency in Google Cloud Platform computing and advanced concepts.'
+    },  
+    {
+      id: 0,
       title: 'Certified AWS',
       image: 'images/aws cert.jpg',
       description: 'A certification that demonstrates proficiency in AWS cloud computing and advanced concepts.'
