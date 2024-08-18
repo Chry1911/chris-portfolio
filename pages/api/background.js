@@ -28,6 +28,15 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'Swiss-rev SA',
+                role: 'Full stack developer',
+                url: 'https://swiss-rev.com/',
+                desc: 'As a Full Stack Developer, I developed web applications for our clients using the latest technologies. I also worked extensively with Jira and Confluence for project management and documentation.',
+                year: '08/2024 - right now',
+                location: 'Swiss-rev SA, Switzerland, Morbio-Inferiore, Via Serfontana 11 6834'
+            },
+            {
+                id: 1,
                 title: 'Goodcode SA',
                 role: 'Head of Development',
                 url: 'https://goodcode.ch/',
